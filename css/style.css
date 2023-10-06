@@ -1,0 +1,11 @@
+body {
+    background-color:;
+    color: black;
+    margin: 100px;
+    padding: 25px;
+}
+
+#day-two {
+    background-color: lightblue;
+    padding: 25px;
+}
